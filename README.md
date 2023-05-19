@@ -2,9 +2,9 @@
 
 ## Description
 
-This GitHub repository contains a String Pattern Matching Algorithm implementation. The algorithm is designed to efficiently search for multiple patterns (words) in a given text. It utilizes a tree-based DFA (Deterministic Finite Automaton) to determine matches simultaneously, enabling the detection of more than one match at a time. The algorithm has a linear time complexity, making it suitable for processing large texts efficiently.
+String Pattern Matching Algorithm implementation. The algorithm is designed to efficiently search for multiple patterns (words) in a given text. It utilizes a tree-based DFA (Deterministic Finite Automaton) to determine matches simultaneously, enabling the detection of more than one match at a time. The algorithm has a linear time complexity, making it suitable for processing large texts efficiently.
 
-## Background
+## functions and fils 
 
 The repository consists of two main files:
 
